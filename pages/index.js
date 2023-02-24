@@ -35,7 +35,7 @@ export default function About() {
 
       <Link href="/paint">
         <a className="py-3 block text-center bg-black text-white rounded-md mt-10">
-          Empieza a pintar
+          Empieza a Imaginear
         </a>
       </Link>
     </div>
